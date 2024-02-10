@@ -1,4 +1,4 @@
-
+![logo](https://github.com/rahat2924/rahat2924/blob/main/Git%20cover.png)
 - Visit my Portfolio [sites.google.com/view/rahatofficials](sites.google.com/view/rahatofficials)
 
 <h3 align="left">Connect with me:</h3>
